@@ -1,0 +1,7 @@
+>>> A higher sampling rate (0.25s) with a 3-bit encoder provides a reasonably good approximation of the original signal.
+
+
+>>> Reducing the sampling rate to 0.5s or 1s results in a significant loss of information.
+
+
+>>> Using a 2-bit encoder introduces noticeable quantization error, degrading the signal quality.
